@@ -1,5 +1,5 @@
 # nyctimes.net
 
-Feel free to commit with fake stories, this is auto deployed to Netlify.
+A fun, harmless near identical domain used for rickrolls.
 
-Paths are automatically resolved without the .html.
+We are in no way affiliated or endorsed by the New York Times, and just want to take part in rickrolling.
